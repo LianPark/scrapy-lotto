@@ -32,7 +32,7 @@ count649 : 년도별 번호별 출력횟수 카운트
 
 # 인스톨
 
-uv add scrapy
+uv add scrapy  
 uv pip install -e pkylib (로칼라이브러리)
 
 
